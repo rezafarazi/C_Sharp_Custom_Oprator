@@ -1,0 +1,6 @@
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\bin\Debug\Compare_Country.exe.config
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\bin\Debug\Compare_Country.exe
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\bin\Debug\Compare_Country.pdb
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\obj\Debug\Compare_Country.csprojResolveAssemblyReference.cache
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\obj\Debug\Compare_Country.exe
+C:\Users\Rezafta\Desktop\Parallel\Compare_Country\Compare_Country\obj\Debug\Compare_Country.pdb
